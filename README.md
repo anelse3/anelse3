@@ -1,10 +1,9 @@
-<h1>My name is Alex, thanks for visiting my page! <br/><a href="https://github.com/joshmadakor1">Tech Enthusiast</a>, <a href="www.linkedin.com/in/alex-nelsen-086783227">Cybersecurity Student</a> 
+<h1>My name is Alex, thanks for visiting my page! <br/><a href="https://github.com/anelse3/anelse3">Tech Enthusiast</a>, <a href="www.linkedin.com/in/alex-nelsen-086783227">Cybersecurity Student</a> 
 
 <h2>👨‍💻 Cybersecuirty Projects:</h2>
 
 
 <h2>📺 Security Blog</h2>
-
 
 
 <h2> 🤳 Connect with me:</h2>
